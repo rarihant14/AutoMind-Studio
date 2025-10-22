@@ -39,14 +39,15 @@ allowing developers and researchers to rapidly experiment with **AI-driven workf
 ## ⚡ Getting Started
 
 ### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/rarihant14/AutoMind-Studio.git
-cd AutoMind-Studio
+bash 
+     
+     git clone https://github.com/rarihant14/AutoMind-Studio.git
+     cd AutoMind-Studio
 
-2️⃣Install Dependencies
-     pip install -r requirements.txt
+### 2️⃣ Install Dependencies
+    pip install -r requirements.txt
 
-💬 Contributing
+Contributing
 
 Contributions, ideas, and bug reports are welcome!
 To contribute:
@@ -56,5 +57,3 @@ Fork the repository
 Create a feature branch
 
 Submit a pull request
-
-
